@@ -1,0 +1,10 @@
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\bin\Debug\Login screen.exe.config
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\bin\Debug\Login screen.exe
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\bin\Debug\Login screen.pdb
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\obj\Debug\Login screen.csproj.AssemblyReference.cache
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\obj\Debug\Login_screen.Form1.resources
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\obj\Debug\Login_screen.Properties.Resources.resources
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\obj\Debug\Login screen.csproj.GenerateResource.cache
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\obj\Debug\Login screen.csproj.CoreCompileInputs.cache
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\obj\Debug\Login screen.exe
+C:\Users\Lone_Wolf\source\repos\Login screen\Login screen\obj\Debug\Login screen.pdb

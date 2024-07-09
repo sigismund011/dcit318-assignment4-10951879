@@ -1,0 +1,10 @@
+D:\dcit318-Assignment4-10964242\SketchCanvas\bin\Debug\SketchCanvas.exe.config
+D:\dcit318-Assignment4-10964242\SketchCanvas\bin\Debug\SketchCanvas.exe
+D:\dcit318-Assignment4-10964242\SketchCanvas\bin\Debug\SketchCanvas.pdb
+D:\dcit318-Assignment4-10964242\SketchCanvas\obj\Debug\SketchCanvas.csproj.AssemblyReference.cache
+D:\dcit318-Assignment4-10964242\SketchCanvas\obj\Debug\SketchCanvas.SketchCanvas.resources
+D:\dcit318-Assignment4-10964242\SketchCanvas\obj\Debug\SketchCanvas.Properties.Resources.resources
+D:\dcit318-Assignment4-10964242\SketchCanvas\obj\Debug\SketchCanvas.csproj.GenerateResource.cache
+D:\dcit318-Assignment4-10964242\SketchCanvas\obj\Debug\SketchCanvas.csproj.CoreCompileInputs.cache
+D:\dcit318-Assignment4-10964242\SketchCanvas\obj\Debug\SketchCanvas.exe
+D:\dcit318-Assignment4-10964242\SketchCanvas\obj\Debug\SketchCanvas.pdb
